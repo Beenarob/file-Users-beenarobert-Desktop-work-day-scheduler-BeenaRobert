@@ -1,7 +1,6 @@
 # Work Day Scheduler
 
-### URL : https://sylviaprabudy.github.io/work-day-scheduler/
-file:///Users/beenarobert/Desktop/work-day-scheduler-BeenaRobert/index.html 
+### URL : file:///Users/beenarobert/Desktop/work-day-scheduler-BeenaRobert/index.html 
 
 ## Description
 a simple calendar application that allows a user to save events for each hour of the day. It runs in the browser and feature dynamically updated HTML and CSS powered by jQuery.
